@@ -1,0 +1,23 @@
+ body{background-color:#DDDDDD}
+ .welcom{
+    align-items:center ;/*垂直對齊*/
+    height: 500px;
+    background-color: aliceblue;
+}
+.headline{
+    font-size:28px;font-weight:bold;
+    margin-bottom:10px;text-align: center;
+    background-color: black;
+        color:#ffffff
+}
+.desktop-menu{
+    font-size:16px;font-weight:bold;
+    color:blue
+}
+.list{
+    justify-content:center;/*水平靠中對齊*/
+}
+.product{
+    flex:none;width:280px;margin:10px;
+    background-color:#ffffff;
+}
